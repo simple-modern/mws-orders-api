@@ -1,3 +1,3 @@
 {:paths ["classes"]
- :deps {mws-client {:git/url "https://github.com/simple-modern/mws-client.git"
-                    :sha "672c8f9080722047efb3d9d207213d469ab26562"}}}
+ :deps {com.simplemodern/mws-client {:git/url "https://github.com/simple-modern/mws-client.git"
+                                     :sha "672c8f9080722047efb3d9d207213d469ab26562"}}}
